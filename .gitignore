@@ -2,3 +2,4 @@ analyzer
 *.o
 dataset_*.txt
 *.zip
+.DS_Store
